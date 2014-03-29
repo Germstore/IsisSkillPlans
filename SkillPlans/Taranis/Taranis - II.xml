@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Taranis II" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3300" skill="Gunnery" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3301" skill="Small Hybrid Turret" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3310" skill="Rapid Firing" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3311" skill="Sharpshooter" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3312" skill="Motion Prediction" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3315" skill="Surgical Strike" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3316" skill="Controlled Bursts" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3392" skill="Mechanics" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3393" skill="Repair Systems" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3450" skill="Afterburner" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3452" skill="Acceleration Control" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3418" skill="Capacitor Management" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3435" skill="Propulsion Jamming" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3429" skill="Target Management" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3431" skill="Signature Analysis" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="3" priority="3" type="Planned"></entry>
+</plan>

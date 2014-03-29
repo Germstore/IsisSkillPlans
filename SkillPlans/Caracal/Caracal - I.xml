@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Caracal I" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3319" skill="Missile Launcher Operation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3321" skill="Light Missiles" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3324" skill="Heavy Missiles" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="12442" skill="Missile Projection" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="21071" skill="Rapid Launch" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="25719" skill="Heavy Assault Missiles" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3435" skill="Propulsion Jamming" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3392" skill="Mechanics" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3429" skill="Target Management" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3300" skill="Gunnery" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="1" priority="3" type="Planned"></entry>
+</plan>

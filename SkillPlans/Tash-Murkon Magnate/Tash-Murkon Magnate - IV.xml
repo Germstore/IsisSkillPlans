@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Tash-Murkon Magnate IV" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3392" skill="Mechanics" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3393" skill="Repair Systems" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="22806" skill="EM Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="22809" skill="Thermic Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="33078" skill="Armor Layering" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3429" skill="Target Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3431" skill="Signature Analysis" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="33002" skill="Radar Sensor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3450" skill="Afterburner" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3451" skill="Fuel Conservation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3452" skill="Acceleration Control" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3418" skill="Capacitor Management" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3412" skill="Astrometrics" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3551" skill="Survey" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="25739" skill="Astrometric Rangefinding" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="25810" skill="Astrometric Pinpointing" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="25811" skill="Astrometric Acquisition" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="13278" skill="Archaeology" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="21718" skill="Hacking" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="25863" skill="Salvaging" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3419" skill="Shield Management" level="4" priority="3" type="Planned"></entry>
+</plan>

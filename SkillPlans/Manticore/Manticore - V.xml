@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Manticore V" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3319" skill="Missile Launcher Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3321" skill="Light Missiles" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3324" skill="Heavy Missiles" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3325" skill="Torpedoes" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="12441" skill="Missile Bombardment" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="12442" skill="Missile Projection" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20213" skill="Torpedo Specialization" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20312" skill="Guided Missile Precision" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20314" skill="Target Navigation Prediction" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20315" skill="Warhead Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="21071" skill="Rapid Launch" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="28073" skill="Bomb Deployment" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3419" skill="Shield Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3425" skill="Shield Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="11566" skill="Thermic Shield Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="12365" skill="EM Shield Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="12366" skill="Kinetic Shield Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="12367" skill="Explosive Shield Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="21059" skill="Shield Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3450" skill="Afterburner" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3451" skill="Fuel Conservation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3452" skill="Acceleration Control" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3418" skill="Capacitor Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3392" skill="Mechanics" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="11579" skill="Cloaking" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3429" skill="Target Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3431" skill="Signature Analysis" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="33000" skill="Gravimetric Sensor Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3300" skill="Gunnery" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="11207" skill="Advanced Weapon Upgrades" level="5" priority="3" type="Planned"></entry>
+</plan>

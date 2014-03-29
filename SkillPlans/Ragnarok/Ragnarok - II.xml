@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Ragnarok II" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3300" skill="Gunnery" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3302" skill="Small Projectile Turret" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3305" skill="Medium Projectile Turret" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3308" skill="Large Projectile Turret" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3310" skill="Rapid Firing" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3311" skill="Sharpshooter" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3312" skill="Motion Prediction" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3315" skill="Surgical Strike" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3317" skill="Trajectory Analysis" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="21667" skill="Capital Projectile Turret" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3419" skill="Shield Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3420" skill="Tactical Shield Manipulation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="11566" skill="Thermic Shield Compensation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="12365" skill="EM Shield Compensation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="12366" skill="Kinetic Shield Compensation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="12367" skill="Explosive Shield Compensation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="21802" skill="Capital Shield Operation" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20342" skill="Advanced Spaceship Command" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3418" skill="Capacitor Management" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3348" skill="Leadership" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3354" skill="Warfare Link Specialist" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="11569" skill="Armored Warfare Specialist" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="20494" skill="Armored Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3392" skill="Mechanics" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3456" skill="Jump Drive Operation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="21610" skill="Jump Fuel Conservation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3429" skill="Target Management" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3431" skill="Signature Analysis" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3318" skill="Weapon Upgrades" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3352" skill="Information Warfare Specialist" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="20495" skill="Information Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3349" skill="Skirmish Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="11572" skill="Skirmish Warfare Specialist" level="2" priority="3" type="Planned"></entry>
+  <entry skillID="3350" skill="Siege Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3351" skill="Siege Warfare Specialist" level="2" priority="3" type="Planned"></entry>
+</plan>

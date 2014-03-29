@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Badger IV" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3327" skill="Spaceship Command" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3450" skill="Afterburner" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3451" skill="Fuel Conservation" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3452" skill="Acceleration Control" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3454" skill="High Speed Maneuvering" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3418" skill="Capacitor Management" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3419" skill="Shield Management" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3392" skill="Mechanics" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="4" priority="3" type="Planned"></entry>
+</plan>

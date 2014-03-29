@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Kitsune I" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3402" skill="Science" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3427" skill="Electronic Warfare" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3392" skill="Mechanics" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="1" priority="3" type="Planned"></entry>
+  <entry skillID="3429" skill="Target Management" level="1" priority="3" type="Planned"></entry>
+</plan>

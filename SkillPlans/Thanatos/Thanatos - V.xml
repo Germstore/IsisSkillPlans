@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Thanatos V" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3348" skill="Leadership" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3436" skill="Drones" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3442" skill="Drone Interfacing" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="23069" skill="Fighters" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="24613" skill="Advanced Drone Interfacing" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3422" skill="Shield Emission Systems" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="24571" skill="Capital Shield Emission Systems" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3392" skill="Mechanics" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3393" skill="Repair Systems" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="21803" skill="Capital Repair Systems" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="22806" skill="EM Armor Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="22809" skill="Thermic Armor Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="16069" skill="Remote Armor Repair Systems" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="24568" skill="Capital Remote Armor Repair Systems" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20342" skill="Advanced Spaceship Command" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20533" skill="Capital Ships" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3417" skill="Capacitor Systems Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3418" skill="Capacitor Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3424" skill="Energy Grid Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3426" skill="CPU Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3432" skill="Electronics Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3354" skill="Warfare Link Specialist" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="11569" skill="Armored Warfare Specialist" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20494" skill="Armored Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3419" skill="Shield Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3428" skill="Long Range Targeting" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3429" skill="Target Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3431" skill="Signature Analysis" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="32999" skill="Magnetometric Sensor Compensation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3430" skill="Advanced Target Management" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3456" skill="Jump Drive Operation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="21610" skill="Jump Fuel Conservation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="21611" skill="Jump Drive Calibration" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="12096" skill="Logistics" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="27906" skill="Tactical Logistics Reconfiguration" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3352" skill="Information Warfare Specialist" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="20495" skill="Information Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3349" skill="Skirmish Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="11572" skill="Skirmish Warfare Specialist" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3350" skill="Siege Warfare" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3351" skill="Siege Warfare Specialist" level="5" priority="3" type="Planned"></entry>
+</plan>

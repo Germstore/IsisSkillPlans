@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<plan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="Primae IV" owner="7804B5D2-2762-4FAB-A212-A88958E59B6A" revision="4273">
+  <entry skillID="3392" skill="Mechanics" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3393" skill="Repair Systems" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3394" skill="Hull Upgrades" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="22806" skill="EM Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="22807" skill="Explosive Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="22808" skill="Kinetic Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="22809" skill="Thermic Armor Compensation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="33078" skill="Armor Layering" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3413" skill="Power Grid Management" level="3" priority="3" type="Planned"></entry>
+  <entry skillID="3416" skill="Shield Operation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3419" skill="Shield Management" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="2403" skill="Advanced Planetology" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="2406" skill="Planetology" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="2495" skill="Interplanetary Consolidation" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="2505" skill="Command Center Upgrades" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3402" skill="Science" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="13279" skill="Remote Sensing" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3327" skill="Spaceship Command" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3449" skill="Navigation" level="5" priority="3" type="Planned"></entry>
+  <entry skillID="3453" skill="Evasive Maneuvering" level="4" priority="3" type="Planned"></entry>
+  <entry skillID="3455" skill="Warp Drive Operation" level="4" priority="3" type="Planned"></entry>
+</plan>
